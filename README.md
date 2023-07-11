@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Griffin
-- 👀 I’m interested in Python, Kivy, and Flask.
-- 🌱 I’m currently learning Material Design with KivyMD
+- 👀 I’m interested in Python, and JS.
+- 🌱 I’m currently learning Svelte
 - 💞️ I’m looking to collaborate on nothing right now.
 - 📫 How to reach me: email
 
